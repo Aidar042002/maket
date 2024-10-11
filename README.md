@@ -1,5 +1,3 @@
-# Проект
-
 ### Backend
 
 - **Файл:** [backend/src/index.ts](backend/src/index.ts)
@@ -7,6 +5,10 @@
   ```bash
   npx ts-node backend/src/index.ts
 
-**Файл:** [frontend](frontend)  
+### Frontend
+**Папка:** [frontend](frontend)  
+- **Команда для запуска:** 
+  ```bash
+  npm start
 
 
